@@ -7,13 +7,19 @@
 # 功能介绍
 - 语音功能
 
+  ![Button](https://github.com/PYmili/DesktopWife/blob/master/image/Button.png)
+
   > 程序使用Python和谷歌api实现的语音识别功能，再使用网络API实现的tts功能，当用户说出：“小雨”，这个名字时，程序会触发语音唤醒（音频录取时间为3秒，过三秒后从新录取）
 
 - 天气查询功能
 
+  ![Button](https://github.com/PYmili/DesktopWife/blob/master/image/Button.png)
+
   > 程序中右键宠物可以看到此功能，查看天气情况
  
 - 播放音乐功能
+
+  ![Button](https://github.com/PYmili/DesktopWife/blob/master/image/Button.png)
 
   > 程序中右键宠物可以看到此功能，播放指定音乐
 
