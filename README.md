@@ -14,6 +14,8 @@
 
   程序中右键宠物可以看到此功能，播放指定音乐
 
+### B站演示地址：https://www.bilibili.com/video/BV1sV4y1g74K?spm_id_from=333.999.0.0
+
 
 # 文件介绍
 - DesktopWife.py
